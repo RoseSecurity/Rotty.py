@@ -29,7 +29,7 @@ To run the script daily, as it is intended:
 
 Within the file, add the following line:
 
-```00 10 * * * <path to file>/Rotty.py```
+```00 10 * * * python3 <path to file>/Rotty.py```
 
 # Getting Started:
 
