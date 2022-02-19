@@ -31,6 +31,9 @@ Within the file, add the following line:
 
 ```00 10 * * * <path to file>/Rotty.py```
 
+# Interface
+
+<img width="1440" alt="Interface" src="https://user-images.githubusercontent.com/72598486/154787952-bc163bf2-16c5-4afa-b711-a7fba4ec8ac6.png">
 
 
 
