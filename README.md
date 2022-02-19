@@ -31,9 +31,15 @@ Within the file, add the following line:
 
 ```00 10 * * * <path to file>/Rotty.py```
 
-# Interface
+# Getting Started:
 
 <img width="1440" alt="Interface" src="https://user-images.githubusercontent.com/72598486/154787952-bc163bf2-16c5-4afa-b711-a7fba4ec8ac6.png">
+
+# Interfacing with Rotty:
+
+Rotty.py will ask you to provide your IP address space (to find this, type ```ifconfig``` or ```ip addr``` on Linux and ```ipconfig``` on Windows devices. After providing this, Rotty will send generated alerts to the email that you provide.
+
+<img width="1440" alt="Questions" src="https://user-images.githubusercontent.com/72598486/154788088-fc9a137c-58f8-454d-b195-5d4874c961ed.png">
 
 
 
