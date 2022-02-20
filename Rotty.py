@@ -64,11 +64,7 @@ def SetUp():
     Network = input("Enter the IP Address and CIDR of your home network (Example: 10.0.0.0\\8, 192.168.1.0\\16, 172.16.0.0\\12)\n:")
     Email = input("\nEnter the email address for generated alerts\n:")
     EmailPassword = getpass("\nEnter your email address password\n:")
-    print(Fore.BLUE + "\nGenerating network baseline.")
-    time.sleep(1)
-    print(Fore.BLUE + "Generating network baseline..")
-    time.sleep(1)
-    print(Fore.BLUE + "Generating network baseline...")
+
     if OS == "Windows":
         os.mkdir(WindowsPath)
         os.chdir(WindowsPath)
