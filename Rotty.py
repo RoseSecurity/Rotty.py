@@ -12,7 +12,6 @@ from crontab import CronTab
 from getpass import getpass
 import platform
 import time
-import nmap
 import sys
 import os
 
