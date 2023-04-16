@@ -10,6 +10,7 @@ from email.mime.text import MIMEText
 from colorama import Fore, Back, Style
 from crontab import CronTab
 from getpass import getpass
+import nmap
 import platform
 import time
 import sys
