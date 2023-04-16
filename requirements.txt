@@ -8,6 +8,6 @@ crontab
 getpass
 platform
 time
-nmap
+python-nmap
 sys
 os
